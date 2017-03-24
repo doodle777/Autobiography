@@ -11,4 +11,5 @@
 * [第四章 我的爱情观](chapter4/README.md)
 * [第五章 我的人生观](chapter5/README.md)
 * [附录](appendix/README.md)
+* [致谢](appendix/acknowledge.md)
 
