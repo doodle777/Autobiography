@@ -6,8 +6,6 @@
 * [扉页](forword/posttitle.md)
 * [序](forword/perface.md)
 * [前言](forword/forword.md)
-* [附录](appendix/README.md)
-* [致谢](appendix/acknowledge.md)
 
 ## 正文
 
@@ -20,3 +18,5 @@
 
 ## 附录
 
+* [附录](appendix/README.md)
+* [致谢](appendix/acknowledge.md)
