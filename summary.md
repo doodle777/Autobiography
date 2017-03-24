@@ -9,5 +9,6 @@
 * [第二章 我的教育史](chapter2/README.md)
 * [第三章 我和我的父母](chapter3/README.md)
 * [第四章 我的爱情观](chapter4/README.md)
+* [第五章 我的人生观](chapter5/README.md)
 * [附录](appendix/README.md)
 
