@@ -1,9 +1,0 @@
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<center>献给我的家人</center>
-<center>献给所有我爱的和爱我的人</center>
